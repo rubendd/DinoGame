@@ -1,5 +1,7 @@
+package controlador;
 
-import java.awt.Label;
+
+import juego.Pantalla;
 import java.awt.Rectangle;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

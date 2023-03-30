@@ -1,4 +1,7 @@
+package juego;
 
+
+import controlador.Objeto;
 import java.awt.event.KeyEvent;
 import controlador.Controles;
 import java.awt.event.ActionEvent;
